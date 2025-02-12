@@ -26,14 +26,14 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [x] Create Readme
 - [x] Create index.html
 - [x] Create cats.html
-- [ ] Update README author
-- [ ] Create dogs.html
-- [ ] Create an H1 tag in dogs.html
-- [ ] Create a P tag in dogs.html
-- [ ] Create an ARTICLE tag in dogs.html
-- [ ] Create an H2 and two P tags nested inside the ARTICLE tag
-- [ ] Make more HTML files on different topics (optional)
-- [ ] Commit and sync to Github
+- [X] Update README author
+- [X] Create dogs.html
+- [X] Create an H1 tag in dogs.html
+- [X] Create a P tag in dogs.html
+- [X] Create an ARTICLE tag in dogs.html
+- [X] Create an H2 and two P tags nested inside the ARTICLE tag
+- [X] Make more HTML files on different topics (optional)
+- [X] Commit and sync to Github
 
 ### Bonus and Extension
 
@@ -41,12 +41,13 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 **Bonus** (more tags): look at all [INLINE and BLOCK tags on w3 Schools](https://www.w3schools.com/html/html_blocks.asp). Which would be easy to use? Which are challenging? Choose a few to add as elements on your page.
 
+
 **Extension** (deprecated tags): See: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML). Look for deprecated tags. Research why they are no longer used. Dig up the history behind why these tags fell out of use. Create a webpage of your findings using the deprecated tags and their replacements.
 
 ## Contact
 
 Author: robert.mccreary@codex.academy
-
+Author: Ivana King, king.ivana@gmail.com
 ## Acknowledgements
 
 * [w3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
